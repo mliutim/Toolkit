@@ -1,0 +1,3 @@
+curl https://raw.githubusercontent.com/mliutim/Toolkit/master/v2-ui_v2ray_server/v2-ui_readme.txt -o v2-ui_readme.txt
+curl https://raw.githubusercontent.com/mliutim/Toolkit/master/v2-ui_v2ray_server/v2-ui_ltim.tar.gz -o v2-ui_ltim.tar.gz
+curl https://raw.githubusercontent.com/mliutim/Toolkit/master/v2-ui_v2ray_server/v2-ui_sh -o v2-ui_sh
