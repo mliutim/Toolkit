@@ -11,5 +11,5 @@ systemctl daemon-reload
 systemctl enable v2-ui
 systemctl restart v2-ui
 
-cp v2-ui_sh /usr/bin/v2-ui
+cp /root/v2-ui_sh /usr/bin/v2-ui
 chmod +x /usr/bin/v2-ui
